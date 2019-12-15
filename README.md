@@ -6,11 +6,17 @@ This is a racing game in which you are allowed to run freely in a circuit with a
 # Controls
 
 SPACEBAR -> to start the game
+
 W -> move forward
+
 S -> move backwards
+
 A -> move to the left
+
 D -> move to the right
+
 X -> Brake
+
 R -> Restart
 
 # Credits
