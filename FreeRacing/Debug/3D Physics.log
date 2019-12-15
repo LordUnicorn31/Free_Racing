@@ -1,0 +1,8 @@
+﻿  ModulePlayer.cpp
+c:\users\usuario\desktop\physics3d_class5 - solution\moduleplayer.h(38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\usuario\desktop\physics3d_class5 - solution\modulesceneintro.h(74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\usuario\desktop\physics3d_class5 - solution\modulesceneintro.h(75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\usuario\desktop\physics3d_class5 - solution\moduleplayer.cpp(279): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+c:\users\usuario\desktop\physics3d_class5 - solution\moduleplayer.cpp(334): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\usuario\desktop\physics3d_class5 - solution\moduleplayer.cpp(340): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  3D Physics.vcxproj -> C:\Users\Usuario\Desktop\Physics3D_class5 - solution\Debug\3D Physics - class5.exe
